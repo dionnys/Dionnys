@@ -3,8 +3,8 @@
   Ingeniero de software & Administrador de sistemas · Apasionado por la automatización, la innovación ☕  
 </p>
 
-<p align="center">  <a href="https://linkedin.com/in/dionnysbonalde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-DionnysBonalde-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitch.tv/dionnys" target="_blank"><img src="https://img.shields.io/badge/Twitch-Afiliado-9146FF?style=flat-square&logo=twitch"></a>
+<p align="center">  <a href="https://linkedin.com/in/dionnys" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-DionnysBonalde-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitch.tv/bonalplay" target="_blank"><img src="https://img.shields.io/badge/Twitch-Afiliado-9146FF?style=flat-square&logo=twitch"></a>
 </p>
 
 ---
