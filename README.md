@@ -36,10 +36,11 @@
 
 ### 📊 Estadísticas
 
-<p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=dionnys&label=Visitas&color=blue&style=flat" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dionnys&theme=radical&margin-w=10&no-frame=true" />
 </p>
+
 
 ---
 
