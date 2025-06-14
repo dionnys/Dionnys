@@ -37,9 +37,11 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dionnys&show_icons=true&theme=radical&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dionnys&show_icons=true&theme=radical&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionnys&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionnys&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dionnys&theme=radical&margin-w=10&no-frame=true" />
+  <img src="https://komarev.com/ghpvc/?username=dionnys&label=Visitas&color=blue&style=flat" />
 </p>
 
 ---
