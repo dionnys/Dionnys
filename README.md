@@ -1,12 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║          git clone https://github.com/dionnys           ║
-║          > Initializing Dionnys Bonalde...  ✓           ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 # Dionnys Bonalde
 
 **Software Engineer · Systems Architect · Automation Specialist**  
@@ -43,6 +36,7 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Frontend**  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
@@ -51,6 +45,10 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -67,16 +65,16 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 ## `$ git log --oneline --current-projects`
 
 ```
-🚀  feat(saas):    Control de Asistencia — SaaS multi-tenant para PYMEs chilenas
-                  Ley 21.561 · MongoDB siloed · TypeScript + Zod · Previred API
+🚀  feat(saas):    Plataforma SaaS multi-tenant para gestión laboral en PYMEs
+                  Compliance laboral · MongoDB siloed · TypeScript + Zod · API integrations
 
-🤖  feat(agent):  WhatsApp AI Agent — FastAPI + Node.js · OpenAI + Ollama (RTX 5070 Ti)
+🤖  feat(agent):  WhatsApp AI Agent — FastAPI + Node.js · OpenAI + Ollama local
                   Docker · multi-LLM · image gen · monitoring dashboard
 
-🛡️  feat(sec):    Hardening de infraestructura Codeminds
-                  mTLS · DMARC/SPF/DKIM · Cloudflare · CI/CD security review
+🛡️  feat(sec):    Hardening de infraestructura cloud
+                  mTLS · DMARC/SPF/DKIM · Cloudflare WAF · CI/CD security review
 
-🏆  chore(biz):   Microsoft ISV Success Program — aceptado ($126K USD en beneficios)
+🏆  chore(biz):   Microsoft ISV Success Program — partner activo
 ```
 
 ---
