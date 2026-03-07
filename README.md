@@ -96,11 +96,7 @@ drwxr-xr-x  ai/            → LLMs, agentes, RAG, fine-tuning local
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionnys&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnys&layout=compact&theme=github_dark&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dionnys&theme=darkhub&margin-w=8&no-frame=true&column=7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dionnys&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)](https://streak-stats.demolab.com)
 
 </div>
 
