@@ -18,7 +18,7 @@
 name:       Dionnys Bonalde
 location:   Santiago, Chile 🇨🇱  (Venezuelan by origin 🇻🇪)
 role:       Full-Stack Engineer · Sysadmin · Automation Specialist
-experience: 13+ years in software, automation & IT infrastructure
+experience: 20 years in software, automation & IT infrastructure
 coffee:     Specialty, black, no sugar — non-negotiable ☕
 ```
 
