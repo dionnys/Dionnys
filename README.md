@@ -33,6 +33,7 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 <div align="center">
 
 **Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,6 +41,8 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 
 **Datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Infraestructura**
@@ -51,7 +54,7 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 
 </div>
 
-*También trabajo con: .NET, Go, Svelte/Next.js, MySQL/MariaDB/SQL Server/Oracle, Azure.*
+*También trabajo con: .NET, Go, Svelte/Next.js, SQL Server, MariaDB, Azure, y electrónica con microcontroladores.*
 
 ---
 
@@ -81,7 +84,7 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 drwxr-xr-x  gaming/        → estrategia, simulación, survival horror
 drwxr-xr-x  ciclismo/      → rutas urbanas y de montaña en Santiago
 drwxr-xr-x  cafe/          → especialidad, V60, AeroPress
-drwxr-xr-x  electronica/   → proyectos con microcontroladores y hardware
+drwxr-xr-x  electronica/   → Arduino, ESP32, sensores, IoT y domótica con microcontroladores
 drwxr-xr-x  ia/            → LLMs, agentes, RAG, fine-tuning local
 ```
 
