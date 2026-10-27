@@ -2,12 +2,11 @@
 
 # Dionnys Bonalde
 
-**Ingeniero de Software · Arquitecto de Sistemas · Especialista en Automatización**
+**Ingeniero de Software · Full-Stack · Automatización**
 *Construyo sistemas que no se caen a las 3 AM*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dionnys-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionnys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dionnys-0A66C2?style=flat-square)](https://linkedin.com/in/dionnys)
 [![Twitch](https://img.shields.io/badge/Twitch-bonalplay-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/bonalplay)
-<!-- TODO: agregar badge de email — Mail: dionnys@... -->
 
 </div>
 
@@ -18,8 +17,8 @@
 ```yaml
 nombre:      Dionnys Bonalde
 ubicación:   Santiago, Chile 🇨🇱  (venezolano de origen 🇻🇪)
-rol:         Full-Stack Engineer · Sysadmin · Especialista en Automatización
-experiencia: 13+ años en software, automatización e infraestructura TI
+rol:         Ingeniero de Software · Full-Stack · Automatización
+experiencia: 13+ años en software, automatización e infraestructura TI (desde 2013)
 café:        De especialidad, negro, sin azúcar — no negociable ☕
 ```
 
@@ -28,7 +27,7 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 
 ---
 
-## `$ cat stack.json`
+## `$ cat stack`
 
 <div align="center">
 
@@ -44,15 +43,15 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 **Datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Infraestructura**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-00599C?style=flat-square&logo=unix&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-00599C?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
@@ -65,8 +64,8 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
 ## `$ git log --oneline --proyectos-actuales`
 
 ```
-🚀  feat(saas):   Plataforma SaaS multi-tenant para compliance laboral en PYMEs chilenas
-                 MongoDB siloed · TypeScript + Zod · integraciones con APIs de terceros
+🚀  feat(saas):   Plataforma SaaS multi-tenant para cumplimiento laboral en PYMEs chilenas
+                 MongoDB con aislamiento por tenant · TypeScript + Zod · integraciones con APIs de terceros
 
 🤖  feat(agent): Agente IA para WhatsApp — FastAPI + Node.js · OpenAI + Ollama local
                  Docker · enrutamiento multi-LLM · dashboard de monitoreo
@@ -78,7 +77,7 @@ Desde automatizaciones que ahorran horas de trabajo hasta arquitecturas SaaS mul
                  mTLS · DMARC/SPF/DKIM · Cloudflare WAF · revisión de seguridad en CI/CD
 ```
 
-<!-- TODO: enlazar cada proyecto a su repo (o demo pública) cuando estén listos -->
+*Proyectos en producción. Código privado; demo disponible bajo solicitud.*
 
 ---
 
@@ -101,5 +100,8 @@ drwxr-xr-x  ia/            → LLMs, agentes, RAG, fine-tuning local
 ```
 
 *Software · Automatización · Cloud — para empresas latinas*
+
+**Abierto a consultoría, colaboraciones y proyectos de automatización.**
+[Conversemos en LinkedIn →](https://linkedin.com/in/dionnys)
 
 </div>
